@@ -1,0 +1,16 @@
+{
+  "name": "csvfilemapper-gai",
+  "version": "1.0.0",
+  "description": "`CSVFileMapper` es una utilidad que permite mapear el contenido de un fichero `CSV` a formato `JSON`",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acrilo/csvfilemapper-gai.git"
+  },
+  "author": "Andrés Acrilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acrilo/csvfilemapper-gai/issues"
+  },
+  "homepage": "https://github.com/acrilo/csvfilemapper-gai#readme"
+}
