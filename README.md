@@ -1,6 +1,6 @@
 # `CSVFileMapper`
 
-CSVFileMapper es una utilidad que permite mapear el contenido de un fichero `CSV` a formato `JSON`
+`CSVFileMapper` es una utilidad que permite mapear el contenido de un fichero `CSV` a formato `JSON`
 
 ## `Uso`
 
