@@ -18,7 +18,7 @@ const csvFileContent = 'name,surname\nAndrés,Acrilo';
 const conversion = convert(setup, csvFileContent, headersSignature);
 ```
 Resultado de la conversión
-```json
+```js
 {
     headers: ['name','surname'],
     body: [
