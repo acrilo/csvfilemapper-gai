@@ -24,10 +24,10 @@ Resultado de la conversión
     body: [
         {
             name: 'Andrés',
-            surname: 'Acrilo',
-            bodySize: 1
+            surname: 'Acrilo'
         }
-    ]
+    ],
+    bodySize: 1
 }
 ```
 Lista de errores
