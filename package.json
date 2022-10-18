@@ -1,6 +1,6 @@
 {
   "name": "csvfilemapper-gai",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "`CSVFileMapper` es una utilidad que permite mapear el contenido de un fichero `CSV` a formato `JSON`",
   "main": "src/index.js",
   "repository": {
