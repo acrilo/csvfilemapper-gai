@@ -12,5 +12,6 @@
   "bugs": {
     "url": "https://github.com/acrilo/csvfilemapper-gai/issues"
   },
-  "homepage": "https://github.com/acrilo/csvfilemapper-gai#readme"
+  "homepage": "https://github.com/acrilo/csvfilemapper-gai#readme",
+  "types": "src/index.d.ts"
 }
